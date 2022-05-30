@@ -29,6 +29,12 @@
     - [Kotlin 공식 코딩 컨벤션](https://kotlinlang.org/docs/coding-conventions.html#naming-rules)에 따라, 패키지 이름에 대문자가 오더라도 문제삼지 않도록 정규표현식 수정
     > Names of packages are always lowercase and do not use underscores (`org.example.project`). Using multi-word names is generally discouraged, but if you do need to use multiple words, you can either just concatenate them together or use camel case (`org.example.myProject`).
 
+## butterknife
+- [`annotationProcessor` 관련 문제 해결방법 공유](https://github.com/JakeWharton/butterknife/issues/908#issuecomment-298167584)
+    
+    ![image](https://user-images.githubusercontent.com/13031505/171043844-fff83f6d-0e24-4741-8e6b-ae7d7b88b8ed.png)
+    - 지금까지 게시했던 댓글 중 👍를 제일 많이 받은 댓글
+
 ## Material-Calendar-View
 - [`values-ko/strings.xml` 한국어 번역 기여](https://github.com/Applandeo/Material-Calendar-View/pull/133)
 
