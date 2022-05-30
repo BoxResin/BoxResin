@@ -33,7 +33,7 @@
 - [`annotationProcessor` 관련 문제 해결방법 공유](https://github.com/JakeWharton/butterknife/issues/908#issuecomment-298167584)
     
     ![image](https://user-images.githubusercontent.com/13031505/171043844-fff83f6d-0e24-4741-8e6b-ae7d7b88b8ed.png)
-    - 지금까지 게시했던 댓글 중 👍를 제일 많이 받은 댓글
+    - 지금까지 게시했던 댓글 중 👍를 제일 많이 획득
 
 ## Material-Calendar-View
 - [`values-ko/strings.xml` 한국어 번역 기여](https://github.com/Applandeo/Material-Calendar-View/pull/133)
