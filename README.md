@@ -31,6 +31,13 @@
 </p>
 </div>
 
+# 소개
+- 2010년 C언어로 프로그래밍 입문 및 Win32 API를 통한 윈도우즈 프로그램 개발
+- 2011년 `Java`와 `C++` 입문
+- 2012년 Android 입문
+- 2013년 ~ 현재 구글 Play 스토어에 [급식 앱](https://play.google.com/store/search?q=%EA%B8%89%EC%8B%9D&utm_source=github) 운영 중
+- 前 [㈜버즈니](https://buzzni.com/) Android 클라이언트 엔지니어
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=boxresin&count_private=true&show_icons=true&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&line_height=40"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxresin&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&&hide=javascript,html,nsis"/>
