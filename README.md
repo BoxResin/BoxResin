@@ -1,5 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C70CE,100:006AFB&fontColor=FFFFFF&height=200&section=header&text=Profile)
 
+<div>
+<a href="https://solved.ac/profile/boxresin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxresin" align="right"/>
+</a>
+
+<p>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
+</p>
+</div>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=boxresin&count_private=true&show_icons=true&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&line_height=40"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxresin&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&&hide=javascript,html,nsis"/>
