@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C70CE,100:006AFB&fontColor=FFFFFF&height=200&section=header&text=About%20Me)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C70CE,100:006AFB&fontColor=FFFFFF&height=200&section=header&text=Profile)
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=boxresin&count_private=true&show_icons=true&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&line_height=40"/>
