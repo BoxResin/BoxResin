@@ -32,10 +32,13 @@
 </div>
 
 # 소개
-- 2010년 C언어로 프로그래밍 입문 및 Win32 API를 통한 윈도우즈 프로그램 개발
+- 2010년 C언어로 프로그래밍 입문 및 Win32 API를 통한 Windows 프로그램 개발
 - 2011년 `Java`와 `C++` 입문
 - 2012년 Android 입문
 - 2013년 ~ 현재 구글 Play 스토어에 [급식 앱](https://play.google.com/store/search?q=%EA%B8%89%EC%8B%9D&utm_source=github) 운영 중
+- 2016년 단위 테스트의 필요성과 `JUnit4`를 통한 테스트 코드 작성 방법 학습
+- 2017년 [GDG Firebase 해커톤](https://github.com/GDGKC-FirebasedHackathon) 참여, `Kotlin` 입문, ReactiveX, MVP/MVVM 패턴 등 학습
+- 2018년 [Kotlin 코루틴](https://github.com/Kotlin/kotlinx.coroutines) 학습
 - 前 [㈜버즈니](https://buzzni.com/) Android 클라이언트 엔지니어
 
 <div align="center">
