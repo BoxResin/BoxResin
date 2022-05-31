@@ -78,6 +78,3 @@
 
 ## mockk
 - [의존 라이브러리 버전 업데이트 기여](https://github.com/mockk/mockk/pull/162)
-
-## koin
-- [`README.md`의 사소한 오타 수정 기여](https://github.com/InsertKoinIO/koin/pull/478)
