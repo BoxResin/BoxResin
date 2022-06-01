@@ -61,9 +61,12 @@
 # 오픈소스 기여
 ## kotlinx.coroutines
 - `Flow<T>.collectLatest()` 함수 제안 Kotlin/kotlinx.coroutines#1269
-    - `Flow<T>.collect()`와 달리 `Flow<T>`에 새로운 값이 emit 되면 기존의 collect 작업을 취소하고 새로 collect 하는 함수.
-    - [급식 앱](https://play.google.com/store/apps/details?id=winapi251.app.schoolmeal)에서, 설정된 학교(`Flow<School>`)가 변경될 때(emit), 이전 학교의 급식 정보를 불러오는 작업을 '즉시' 중단하고 새 학교의 급식 정보를 불러와야 했으나 `collect()` 함수로는 불가능했기에 `collectLatest()`를 제안함.
-    - 코루틴 `v1.3.0`에 실제 반영됨. [릴리즈 노트](https://github.com/Kotlin/kotlinx.coroutines/releases/tag/1.3.0-rc2) 참조.
+    - `Flow<T>.collect()`와 달리 `Flow<T>`에 새로운 값이 emit 되면 기존의 collect 작업을 취소하고 새로 collect 하는 terminal 연산자.
+    - [급식 앱](https://play.google.com/store/apps/details?id=winapi251.app.schoolmeal)에서, 설정된 학교(`Flow<School>`)가 변경될 때(emit), 로컬 DB에서 이전 학교의 급식 정보를 불러오던 작업을 '즉시' 중단하고 새 학교의 급식 정보를 불러와야 했으나 `collect()`로는 불가능했기에 새로운 terminal 연산자인 `collectLatest()`를 제안함.
+    - 코루틴 `v1.3.0`에 실제로 해당 함수가 추가됨. [릴리즈 노트](https://github.com/Kotlin/kotlinx.coroutines/releases/tag/1.3.0-rc2) 참조.
+    > ### Flow improvements
+    > - Operators for UI programming are reworked for the sake of consistency, naming scheme for operator overloads is introduced:
+    >   - `collectLatest` terminal operator (#1269).
 
 ## detekt
 - 패키지 네이밍 규칙 수정 기여 detekt/detekt#1434
