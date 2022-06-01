@@ -71,7 +71,9 @@
 ## detekt
 - 패키지 네이밍 규칙 수정 기여 detekt/detekt#1434
     - [Kotlin 공식 코딩 컨벤션](https://kotlinlang.org/docs/coding-conventions.html#naming-rules)에 따라, 패키지 이름에 대문자가 오더라도 문제삼지 않도록 정규표현식 수정
-    > Names of packages are always lowercase and do not use underscores (`org.example.project`). Using multi-word names is generally discouraged, but if you do need to use multiple words, you can either just concatenate them together or use camel case (`org.example.myProject`).
+    > # Naming rules
+    > Package and class naming rules in Kotlin are quite simple:
+    > - Names of packages are always lowercase and do not use underscores (`org.example.project`). Using multi-word names is generally discouraged, but if you do need to use multiple words, you can either just concatenate them together or use camel case (`org.example.myProject`).
 
 ## butterknife
 - `annotationProcessor` 관련 문제 해결방법 공유 [JakeWharton/butterknife#908](https://github.com/JakeWharton/butterknife/issues/908#issuecomment-298167584)
