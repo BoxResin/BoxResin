@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C70CE,100:006AFB&fontColor=FFFFFF&height=200&section=header&text=Profile)
 
 <div>
-<a href="https://solved.ac/profile/boxresin">
+<!-- <a href="https://solved.ac/profile/boxresin">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxresin" align="right"/>
-</a>
+</a> -->
 
 <p>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
