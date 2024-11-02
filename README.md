@@ -32,14 +32,7 @@
 </div>
 
 # 소개
-- 2010년 C언어로 프로그래밍 입문 및 Win32 API를 통한 Windows 프로그램 개발
-- 2011년 `Java`와 `C++` 입문 및 자료구조 학습
-- 2012년 Android 입문
 - 2013년 ~ 현재 구글 Play 스토어에 [급식 앱](https://play.google.com/store/search?q=%EA%B8%89%EC%8B%9D&utm_source=github) 운영 중
-- 2016년 단위 테스트의 필요성을 느끼고 `JUnit4`를 통한 테스트 코드 작성 방법 학습
-- 2017년 [GDG Firebase 해커톤](https://github.com/GDGKC-FirebasedHackathon) 참여, `Kotlin` 입문, RxJava, MVP/MVVM 패턴 등 학습
-- 2018년 [Kotlin 코루틴](https://github.com/Kotlin/kotlinx.coroutines) 학습
-- 前 [㈜버즈니](https://buzzni.com/) Android 클라이언트 엔지니어([홈쇼핑모아](https://play.google.com/store/apps/details?id=com.buzzni.android.subapp.shoppingmoa) 서비스 개발)
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=boxresin&count_private=true&show_icons=true&bg_color=2A2B37&title_color=2C70CE&icon_color=2C70CE&text_color=CCCCCC&locale=kr&line_height=40"/>
